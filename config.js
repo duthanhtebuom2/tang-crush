@@ -14,3 +14,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'chia tay nhé đồ dan dúi.',
     btnAccept: 'Okiiiii lun <3',
+}
